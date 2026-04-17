@@ -1,0 +1,14 @@
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.AssemblyInfoInputs.cache
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.AssemblyInfo.cs
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.csproj.CoreCompileInputs.cache
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\bin\Debug\net10.0\MIB_Lab.exe
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\bin\Debug\net10.0\MIB_Lab.deps.json
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\bin\Debug\net10.0\MIB_Lab.runtimeconfig.json
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\bin\Debug\net10.0\MIB_Lab.dll
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\bin\Debug\net10.0\MIB_Lab.pdb
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.dll
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\refint\MIB_Lab.dll
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.pdb
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\MIB_Lab.genruntimeconfig.cache
+D:\C#\2 лаба люди в черном(дз)\MIB_Lab\MIB_Lab\obj\Debug\net10.0\ref\MIB_Lab.dll
